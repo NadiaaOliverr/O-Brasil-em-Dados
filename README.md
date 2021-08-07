@@ -11,8 +11,11 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
 #### Perguntas a serem respondidas
 
 1 - Qual ano houve maior taxa de doses aplicadas em Poliomielite?
+
 2 - Qual ano houve maior taxa de doses aplicadas em Sarampo?
+
 3 - Qual ano houve maior taxa de doses aplicadas em Rubéola?
+
 4 - Qual a porcentagem da população que foi vacinada em Poliomielite?
  
 5 - Qual a porcentagem da população que foi vacinada em Rubéola?
