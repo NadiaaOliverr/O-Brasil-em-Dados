@@ -2,7 +2,7 @@
 
 ![Imagem de uma vacina que não está com a ponta encaixada e logo abaixo, está escrito na cor preta o título do projeto e os integrantes](https://i.imgur.com/oUYpOSc.jpg)
 
-
+<a name="inicio"></a>
 ## Sumário
 
 1. [Motivação](#motivacao)
@@ -17,6 +17,7 @@
 
 Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da Sars-CoV-2 (Covid 19), doenças que estavam erradicadas começaram a surgir novamente em território nacional, como é o caso do Sarampo, que notificou mais de dez mil casos nos últimos anos. Tendo como base esse cenário, o atual estudo tem como objetivo analisar e entender o comportamento de doenças consideradas erradicadas ao longo dos anos, tendo como foco três principais: Sarampo, Rubéola e Poliomielite.
 
+<a href="#inicio">Voltar ao Sumário</a>
 <a name="intro"></a>
 ### Introdução
 
@@ -29,6 +30,8 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
 #### O que é a Poliomielite?
 
 ...
+
+<a href="#inicio">Voltar ao Sumário</a>
 
 <a name="perguntas"></a>
 ### Perguntas a serem respondidas
@@ -56,12 +59,19 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
 | 19     | Qual a relação entre incidência e cobertura vacinal da Poliomielite?                                     |
 | 20     | O que se pode concluir com as análises feitas?                                                           |
 
+<a href="#inicio">Voltar ao Sumário</a>
+
+
 <a name="refdata"></a>
 ### Referências de Dataset
 ...
+
+<a href="#inicio">Voltar ao Sumário</a>
 <a name="refs"></a>
 ### Referências Bibliográficas
 ...
+
+<a href="#inicio">Voltar ao Sumário</a>
 
 <a name="colaboradores"></a>
 ### Contribuidores
@@ -73,3 +83,4 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
     <td align="center"><a href="https://github.com/natalicarmo"><img src="https://avatars.githubusercontent.com/u/50000533?v=4" width="100px;" alt=""/><br /><sub><b>Natália Camillo</b></sub></a><br /><a href="https://github.com/natalicarmo" title="Code">💻</a></td>
   </tr>
 </table>
+<a href="#inicio">Voltar ao Sumário</a>
