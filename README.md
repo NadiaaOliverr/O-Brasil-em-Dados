@@ -1,6 +1,6 @@
 # Doenças que voltaram a ameaçar o Brasil: uma análise da Sarampo, Rubéola e Poliomielite :bar_chart:
 
-![](https://i.imgur.com/9tcaki5.jpg)
+![Imagem de uma vacina que não está com a ponta encaixada e logo abaixo, está escrito na cor preta o título do projeto e os integrantes](https://i.imgur.com/oUYpOSc.jpg)
 
 
 ## Sumário
@@ -10,7 +10,7 @@
 3. [Perguntas a serem respondidas](#perguntas)
 4. [Referências de Dataset](#refsdata)
 5. [Referências Bibliográficas](#refs)
-6. [Colaboradores](#colaboradores)
+6. [Contribuidores](#colaboradores)
 
 <a name="motivacao"></a>
 ### Motivação
@@ -21,10 +21,14 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
 ### Introdução
 
 #### O que é o Sarampo?
+...
 
 #### O que é a Rubéola?
 
+...
 #### O que é a Poliomielite?
+
+...
 
 <a name="perguntas"></a>
 ### Perguntas a serem respondidas
@@ -52,30 +56,20 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
 | 19     | Qual a relação entre incidência e cobertura vacinal da Poliomielite?                                     |
 | 20     | O que se pode concluir com as análises feitas?                                                           |
 
+<a name="refdata"></a>
 ### Referências de Dataset
-
+...
+<a name="refs"></a>
 ### Referências Bibliográficas
+...
 
+<a name="colaboradores"></a>
 ### Contribuidores
 
 <table>
   <tr>
+    <td align="center"><a href="https://github.com/hpbd152"><img src="https://avatars.githubusercontent.com/u/31517090?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Diniz</b></sub></a><br /><a href="https://github.com/hpbd152" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/NadiaaOliverr"><img src="https://avatars2.githubusercontent.com/u/41811634?v=4" width="100px;" alt=""/><br /><sub><b>Nádia Oliveira</b></sub></a><br /><a href="https://github.com/NadiaaOliverr" title="Code">💻</a></td>
     <td align="center"><a href="https://github.com/natalicarmo"><img src="https://avatars.githubusercontent.com/u/50000533?v=4" width="100px;" alt=""/><br /><sub><b>Natália Camillo</b></sub></a><br /><a href="https://github.com/natalicarmo" title="Code">💻</a></td>
-    <td align="center"><a href="https://github.com/hpbd152"><img src="https://avatars.githubusercontent.com/u/31517090?v=4" width="100px;" alt=""/><br /><sub><b>Henrique Diniz</b></sub></a><br /><a href="https://github.com/hpbd152" title="Code">💻</a></td>
   </tr>
 </table>
-
-
-### Organizar daqui para baixo
-
-- Referências misturadas
-    - https://www.unimedfortaleza.com.br/blog/cuidar-de-voce/movimento-antivacina
-    - https://www.agenciabrasilia.df.gov.br/2020/11/08/cobertura-vacinal-de-473-contra-poliomielite-ainda-reflete-baixa/
-    - https://revistacrescer.globo.com/Voce-precisa-saber/noticia/2017/05/grupos-de-pais-contra-vacinas-quais-sao-os-riscos.html
-    - http://www.femipa.org.br/noticias/sarampo-polio-difteria-por-que-doencas-erradicadas-estao-voltando/
-    - https://antigo.saude.gov.br/images/pdf/2017/agosto/09/Estrategias-Rubeola-1993-2016.pdf
-
-    - 3 datasets de doses 
-    - 1 dataset de população
-    - 1 dataset de escolaridade
