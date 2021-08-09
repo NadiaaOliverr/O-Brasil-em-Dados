@@ -21,15 +21,11 @@ Devido ao cenário pandêmico que se instaurou desde 2019 através do vírus da 
 <a name="intro"></a>
 ### Introdução
 
-#### O que é o Sarampo?
-...
+A Poliomielite, também chamada de pólio ou paralisia infantil, é uma doença contagiosa aguda causada pelo poliovírus, que pode infectar crianças e adultos por meio do contato direto com fezes ou com secreções eliminadas pela boca das pessoas doentes e provocar ou não paralisia. 
 
-#### O que é a Rubéola?
+Por outro lado, a Rubéola  é uma doença aguda, de alta contagiosidade, que é transmitida pelo vírus do gênero Rubivirus e  pode se espalhar pelo contato direto com a saliva ou o muco de uma pessoa infectada ou pelo ar, por meio de gotículas respiratórias produzidas ao tossir ou espirrar.
 
-...
-#### O que é a Poliomielite?
-
-...
+E o Sarampo, que sua transmissão ocorre quando o doente tosse, fala, espirra ou respira próximo de outras pessoas. A única maneira de evitar o sarampo é pela vacina.
 
 <a href="#inicio">Voltar ao Sumário</a>
 
