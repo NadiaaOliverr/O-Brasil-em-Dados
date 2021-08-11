@@ -60,14 +60,12 @@ E o Sarampo, que sua transmissão ocorre quando o doente tosse, fala, espirra ou
 
 <a name="refdata"></a>
 ### Referências de Dataset
-...
+<a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">DATASUS</a>
 
 <a href="#inicio">Voltar ao Sumário</a>
 <a name="refs"></a>
 ### Referências Bibliográficas
 ...
-
-<a href="#inicio">Voltar ao Sumário</a>
 
 <a name="colaboradores"></a>
 ### Contribuidores
