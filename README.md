@@ -60,12 +60,15 @@ E o Sarampo, que sua transmissão ocorre quando o doente tosse, fala, espirra ou
 
 <a name="refdata"></a>
 ### Referências de Dataset
-1. <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">DATASUS</a>
+- <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">DATASUS</a>
 
 <a href="#inicio">Voltar ao Sumário</a>
 <a name="refs"></a>
 ### Referências Bibliográficas
-...
+- <a href="https://www.unimedfortaleza.com.br/blog/cuidar-de-voce/movimento-antivacina">Movimento antivacina: 4 doenças erradicadas que podem retornar ao Brasil</a>
+- <a href="https://www.agenciabrasilia.df.gov.br/2020/11/08/cobertura-vacinal-de-473-contra-poliomielite-ainda-reflete-baixa/">Cobertura vacinal de 47,3% contra poliomielite ainda reflete baixa</a>
+- <a href="https://revistacrescer.globo.com/Voce-precisa-saber/noticia/2017/05/grupos-de-pais-contra-vacinas-quais-sao-os-riscos.html">Grupos de pais contra as vacinas: quais são os riscos?</a>
+- <a href="http://www.femipa.org.br/noticias/sarampo-polio-difteria-por-que-doencas-erradicadas-estao-voltando/">Sarampo, pólio, difteria… Por que doenças erradicadas estão voltando?</a>
 
 <a name="colaboradores"></a>
 ### Contribuidores
