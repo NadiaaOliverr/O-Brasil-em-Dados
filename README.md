@@ -63,21 +63,8 @@ E o Sarampo, que sua transmissão ocorre quando o doente tosse, fala, espirra ou
 Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">Tabnet - DATASUS</a>, um banco de dados disponibilizado pelo departamento de informática do Sistema Único de Saúde do Brasil. Entre os dados disponibilizados, encontramos informações de saúde (indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas) e informações financeiras (referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios).
 
 Neste projeto os seguintes datasets foram obtidos:
-<h3>Coberturas Vacinais por Ano segundo Unidade da Federação</h3>
-Aplicando os seguintes filtros:
-- Linha: Unidade da Federação
-- Coluna: Ano
-- Conteúdo: Coberturas Vacinais
-- Período disponível: 1994 - 2019
 
 <h4>Coberturas Vacinais por Ano segundo Unidade da Federação</h4>
-Aplicando os seguintes filtros:
-- Linha: Unidade da Federação
-- Coluna: Ano
-- Conteúdo: Coberturas Vacinais
-- Período disponível: 1994 - 2019
-
-<h5>HPV - Doses aplicadas: Imunobiológicos: HPV Quadrivalente - Feminino/Masculino</h5>
 Aplicando os seguintes filtros:
 - Linha: Unidade da Federação
 - Coluna: Ano
