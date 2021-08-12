@@ -60,12 +60,12 @@ E o Sarampo, que sua transmissão ocorre quando o doente tosse, fala, espirra ou
 
 <a name="refdata"></a>
 ### Referências de Dataset
-Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">Tabnet - DATASUS</a>, um banco de dados disponibilizado pelo departamento de informática do Sistema Único de Saúde do Brasil, que possui a responsabilidade de coletar, processar e disseminar as informações sobre saúde. 
+Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">Tabnet - DATASUS</a>, um banco de dados disponibilizado pelo departamento de informática do Sistema Único de Saúde do Brasil. Entre os dados disponibilizados, encontramos informações de saúde (indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas) e informações financeiras (referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios)
 
 Neste projeto os seguintes datasets foram obtidos:
-##Teste
-#Teste
-Teste
+<h3>Teste
+<h4>Teste
+<h5>Teste
 
 <a href="#inicio">Voltar ao Sumário</a>
 <a name="refs"></a>
