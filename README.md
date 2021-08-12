@@ -64,12 +64,33 @@ Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.
 
 Neste projeto os seguintes datasets foram obtidos:
 
-<h4>Coberturas Vacinais por Ano segundo Unidade da Federação</h4>
+<h4>Imunizações de Sarampo - desde 1994</h4>
 <p>Aplicando os seguintes filtros:</p>
 <ul>
+  <li>Opção: Doses aplicadas</li>
   <li>Linha: Unidade da Federação</li>
   <li>Coluna: Ano</li>
-  <li>Conteúdo: Coberturas Vacinais</li>
+  <li>Imunobiológicos: Sarampo</li>
+  <li>Período disponível: 1994 - 2019</li>
+</ul>
+
+<h4>Imunizações de Rubéola - desde 1994</h4>
+<p>Aplicando os seguintes filtros:</p>
+<ul>
+  <li>Opção: Doses aplicadas</li>
+  <li>Linha: Unidade da Federação</li>
+  <li>Coluna: Ano</li>
+  <li>Imunobiológicos: Rubéola</li>
+  <li>Período disponível: 1994 - 2019</li>
+</ul>
+
+<h4>Imunizações de Poliomielite - desde 1994</h4>
+<p>Aplicando os seguintes filtros:</p>
+<ul>
+  <li>Opção: Doses aplicadas</li>
+  <li>Linha: Unidade da Federação</li>
+  <li>Coluna: Ano</li>
+  <li>Imunobiológicos: Poliomielite</li>
   <li>Período disponível: 1994 - 2019</li>
 </ul>
 
