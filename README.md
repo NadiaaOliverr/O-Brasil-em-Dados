@@ -65,8 +65,7 @@ Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.
 Neste projeto os seguintes datasets foram obtidos:
 
 <h4>Coberturas Vacinais por Ano segundo Unidade da Federação</h4>
-<h5>Aplicando os seguintes filtros:</h5>
-
+<p>Aplicando os seguintes filtros:</p>
 <ul>
   <li>Linha: Unidade da Federação</li>
   <li>Coluna: Ano</li>
