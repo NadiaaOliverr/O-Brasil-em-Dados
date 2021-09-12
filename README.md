@@ -1,4 +1,4 @@
-# O cenário da Tuberculose no Brasil - Uma análise da doença que ainda assola o país
+# O cenário da Tuberculose no Brasil
 
 ![Imagem de uma vacina que não está com a ponta encaixada e logo abaixo, está escrito na cor preta o título do projeto e os integrantes](https://i.imgur.com/XYMsiNj.jpg)
 
