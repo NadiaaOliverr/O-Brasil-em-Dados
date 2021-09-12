@@ -44,7 +44,7 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 | 3      | Qual período teve a menor taxa de doses aplicadas de TB?                                                 |
 | 4      | Quais os estados que menos vacinaram durante os últimos anos?                                            |
 | 5      | Qual a taxa de incidência de TB por ano?                                                                 |
-| 6      | Qual a porcentagem da população, por estado, que vacinou contra a TB? (Vacina BCG)                       |
+| 6      | Qual estado teve o maior percentual de vacinação per capta? (Vacina BCG)                                 |
 | 7      | Com base nas analises anterioes, o coeficiente de incidência de TB no país aumentou ou diminiu?          |
 | 8      | Durante o começo da pandemia em 2020, o número de casos diminiu significamente?                          |
 | 9      | Qual a letalidade média por ano da doença?                                                               |
