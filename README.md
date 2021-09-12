@@ -1,6 +1,6 @@
-# Tuberculose no Brasil: por que ainda convivemos com ela? :bar_chart:
+# O cenário da Tuberculose no Brasil - Uma análise da doença que ainda assola o país
 
-![Imagem de uma vacina que não está com a ponta encaixada e logo abaixo, está escrito na cor preta o título do projeto e os integrantes](https://i.imgur.com/oUYpOSc.jpg)
+![Imagem de uma vacina que não está com a ponta encaixada e logo abaixo, está escrito na cor preta o título do projeto e os integrantes](https://i.imgur.com/XYMsiNj.jpg)
 
 <a name="inicio"></a>
 ## Sumário
