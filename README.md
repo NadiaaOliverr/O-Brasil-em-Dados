@@ -57,7 +57,7 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 | 16     | Qual a relação entre incidência e cobertura vacinal da TB?                                               |
 | 17     | Existe uma relação entre os estados que menos vacinaram e escolaridade?                                  |
 | 18     | Existe uma relação entre saneamento básico e incidência de TB?                                           |
-| 19     |                                                                                                          |
+| 19     | Em geral como é a situação de tratamento (cura, abandono) da doença nos ultimos anos?                    |
 | 20     | O que se pode concluir com as análises feitas?                                                           |
 
 <a href="#inicio">Voltar ao Sumário</a>
@@ -80,8 +80,9 @@ Neste projeto os seguintes datasets foram obtidos:
 </ul>
 
 ### Dicionário
-- Cobertura Vacinal:
-- Coeficiente de incidência de TB:
+- Cobertura Vacinal: Esse termo refere-se ao percentual da população que está vacinada. Quanto mais pessoas receberem determinada vacina, maior será a cobertura vacinal. A eliminação ou controle de qualquer doença imunoprevenível depende da obtenção desse índice de sucesso. Um exemplo clássico do resultado de alta cobertura vacinal é o da varíola, doença que assolava o mundo matando aos milhares. Depois do esforço mundial para vacinar praticamente todas as pessoas, o vírus por fim desapareceu e agora a varíola é apenas parte da história. Para acabar com doenças graves, é necessário que a maior parte da população esteja vacinada. Mas para a erradicação ou controle não basta apenas atingir altas coberturas vacinais, é preciso mantê-las até que o agente causador da doença esteja eliminado. Mesmo que em determinado momento ocorram apenas poucos casos de alguma doença graças à vacinação, se a população parar de se vacinar, cada vez mais pessoas ficarão desprotegidas e outras tantas serão infectadas, voltando a espalhar a doença, e assim, em pouco tempo, todo o progresso obtido ao longo dos anos estará perdido.
+
+- Coeficiente/ taxa: Relação entre o número de casos de certa doença ocorridos em uma população ou grupo populacional. O denominador (população) é sempre referenciado como potência de 10 (mil, 100 mil, um milhão). Esta relação é utilizada em Saúde Pública para estimar a probabilidade da ocorrência ou não da doença estudada.
 
 <a href="#inicio">Voltar ao Sumário</a>
 <a name="refs"></a>
