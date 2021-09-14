@@ -7,10 +7,11 @@
 
 1. [Motivação](#motivacao)
 2. [Introdução](#intro)
-3. [Perguntas a serem respondidas](#perguntas)
-4. [Referências de Dataset](#refsdata)
-5. [Referências Bibliográficas](#refs)
-6. [Contribuidores](#colaboradores)
+3. [Perguntas a serem respondidas: Parte 1](#perguntas)
+4. [Tratamento de Dados: Parte 2(#parte2)
+5. [Referências de Dataset](#refsdata)
+6. [Referências Bibliográficas](#refs)
+7. [Contribuidores](#colaboradores)
 
 <a name="motivacao"></a>
 ### Motivação
@@ -62,6 +63,13 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 
 <a href="#inicio">Voltar ao Sumário</a>
 
+
+<a name="parte2"></a>
+# Tratamento de Dados: Parte 2
+- Tratar manualmente: o DATASUS dá um texto e depois os dados, e como estamos trabalhando com poucos dados a melhor opção foi fazer isso manualmente do que demorar a fazer uma função para isso. 
+- Separar o código de UF da coluna Estado
+- Excluir a coluna 2021 de alguns datasets pois a maioria só vão até 2020.
+- Passar para int a coluna dos anos.
 
 <a name="refdata"></a>
 ### Referências de Dataset
