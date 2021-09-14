@@ -69,7 +69,7 @@ Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.
 
 Neste projeto os seguintes datasets foram obtidos:
 
-<h4>Imunizações de Tuberculose - desde 1994</h4>
+<h4>Imunizações de Tuberculose - desde 2001</h4>
 <p>Aplicando os seguintes filtros:</p>
 <ul>
   <li>Opção: Doses aplicadas</li>
