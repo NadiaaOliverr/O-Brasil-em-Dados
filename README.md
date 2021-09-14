@@ -8,7 +8,7 @@
 1. [Motivação](#motivacao)
 2. [Introdução](#intro)
 3. [Perguntas a serem respondidas: Parte 1](#perguntas)
-4. [Tratamento de Dados: Parte 2(#parte2)
+4. [Tratamento de Dados: Parte 2](#parte2)
 5. [Referências de Dataset](#refsdata)
 6. [Referências Bibliográficas](#refs)
 7. [Contribuidores](#colaboradores)
