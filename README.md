@@ -36,7 +36,7 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 <a href="#inicio">Voltar ao Sumário</a>
 
 <a name="perguntas"></a>
-### Perguntas a serem respondidas
+# Perguntas a serem respondidas: Parte 1
 
 | Número |                                                 Pergunta                                                 |
 |:------:|--------------------------------------------------------------------------------------------------------|
