@@ -72,7 +72,7 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 - Passar para int a coluna dos anos.
 
 <a name="refdata"></a>
-### Referências de Dataset
+# Referências de Dataset
 Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">Tabnet - DATASUS</a>, um banco de dados disponibilizado pelo departamento de informática do Sistema Único de Saúde do Brasil. Entre os dados disponibilizados, encontramos informações de saúde (indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas) e informações financeiras (referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios).
 
 Neste projeto os seguintes datasets foram obtidos:
@@ -87,7 +87,7 @@ Neste projeto os seguintes datasets foram obtidos:
   <li>Período disponível: 2001 - 2021</li>
 </ul>
 
-### Dicionário
+# Dicionário
 - Cobertura Vacinal: Esse termo refere-se ao percentual da população que está vacinada. Quanto mais pessoas receberem determinada vacina, maior será a cobertura vacinal. A eliminação ou controle de qualquer doença imunoprevenível depende da obtenção desse índice de sucesso. Um exemplo clássico do resultado de alta cobertura vacinal é o da varíola, doença que assolava o mundo matando aos milhares. Depois do esforço mundial para vacinar praticamente todas as pessoas, o vírus por fim desapareceu e agora a varíola é apenas parte da história. Para acabar com doenças graves, é necessário que a maior parte da população esteja vacinada. Mas para a erradicação ou controle não basta apenas atingir altas coberturas vacinais, é preciso mantê-las até que o agente causador da doença esteja eliminado. Mesmo que em determinado momento ocorram apenas poucos casos de alguma doença graças à vacinação, se a população parar de se vacinar, cada vez mais pessoas ficarão desprotegidas e outras tantas serão infectadas, voltando a espalhar a doença, e assim, em pouco tempo, todo o progresso obtido ao longo dos anos estará perdido.
 
 - Coeficiente/ taxa: Relação entre o número de casos de certa doença ocorridos em uma população ou grupo populacional. O denominador (população) é sempre referenciado como potência de 10 (mil, 100 mil, um milhão). Esta relação é utilizada em Saúde Pública para estimar a probabilidade da ocorrência ou não da doença estudada.
