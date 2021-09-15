@@ -66,6 +66,9 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 
 <a name="parte2"></a>
 # Tratamento de Dados: Parte 2
+
+**No geral não tivemos tantos tratamentos, a base estava organizada por assim dizer, mas listamos abaixo as operações feitas:**
+
 - Tratamento manual: o DATASUS dá um texto e depois os dados, e como estamos trabalhando com poucos dados a melhor opção foi fazer isso manualmente do que demorar a fazer uma função para isso. 
 - Separar o código de UF da coluna Estado, para que possamos selecionar pelo código do estado posteriormente
 - Excluir a coluna 2021 de alguns datasets pois a maioria só vão até 2020, logo, iremos trabalhar no range de anos de 2001 a 2020
