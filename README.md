@@ -66,10 +66,12 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 
 <a name="parte2"></a>
 # Tratamento de Dados: Parte 2
-- Tratar manualmente: o DATASUS dá um texto e depois os dados, e como estamos trabalhando com poucos dados a melhor opção foi fazer isso manualmente do que demorar a fazer uma função para isso. 
-- Separar o código de UF da coluna Estado
-- Excluir a coluna 2021 de alguns datasets pois a maioria só vão até 2020.
+- Tratamento manual: o DATASUS dá um texto e depois os dados, e como estamos trabalhando com poucos dados a melhor opção foi fazer isso manualmente do que demorar a fazer uma função para isso. 
+- Separar o código de UF da coluna Estado, para que possamos selecionar pelo código do estado posteriormente
+- Excluir a coluna 2021 de alguns datasets pois a maioria só vão até 2020, logo, iremos trabalhar no range de anos de 2001 a 2020
 - Passar para int a coluna dos anos.
+- Optamos por não juntar os datasets, já que os seus dados estão bem definidos. Quando formos fazer as análises, iremos ler e fazer as comparações necessárias e 
+se preciso, "appendar" um dataframe ao outro. 
 
 <a name="refdata"></a>
 # Referências de Dataset
