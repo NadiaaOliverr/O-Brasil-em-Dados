@@ -54,7 +54,7 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 | 12     | Existe uma relação entre a taxa de pobreza e a incidência de TB?                                         |
 | 13     | Há alguma ligação entre o número de população privada de liberdade e o número de casos novos de TB?      |
 | 14     | Existe uma relação entre a taxa de incidência de HIV e a de incidência de TB?                            |
-| 15     | Qual a porcentagem de casos novos são por conta da infesção por HIV?                                     |
+| 15     | Qual a porcentagem de casos novos são por conta da infecção por HIV?                                     |
 | 16     | Qual a relação entre incidência e cobertura vacinal da TB?                                               |
 | 17     | Existe uma relação entre os estados que menos vacinaram e escolaridade?                                  |
 | 18     | Existe uma relação entre saneamento básico e incidência de TB?                                           |
