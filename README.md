@@ -53,12 +53,12 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 | 11     | Existe uma relação entre as doses aplicadas das vacinas e as taxas de incidência e óbito?                |
 | 12     | Existe uma relação entre a taxa de pobreza e a incidência de TB?                                         |
 | 13     | Há alguma ligação entre o número de população privada de liberdade e o número de casos novos de TB?      |
-| 14     | Existe uma relação entre a taxa de incidência de HIV e a de incidência de TB?                            |
-| 15     | Qual a porcentagem de casos novos são por conta da infecção por HIV?                                     |
-| 16     | Qual a relação entre incidência e cobertura vacinal da TB?                                               |
-| 17     | Existe uma relação entre os estados que menos vacinaram e escolaridade?                                  |
-| 18     | Existe uma relação entre saneamento básico e incidência de TB?                                           |
-| 19     | Em geral como é a situação de tratamento (cura, abandono) da doença nos ultimos anos?                    |
+| 14     | Existe uma relação entre a taxa de incidência de AIDS com a população privada de liberdade (PPL)?        |
+| 15     | A taxa de TB drogarresistente cresceu nos ultimos anos?                                                  |
+| 16     | Houve muitos casos de cura da doença?                                                                    |
+| 17     | Como é a relação das populações vulnerávies com a doença?                                                |
+| 18     | Há alguma relação que raças diferentes com o número de casos novos de tuberculose?                       |
+| 19     | A confirmação por laboratorio da doença diminiu ou aumentou?                                             |
 | 20     | O que se pode concluir com as análises feitas?                                                           |
 
 <a href="#inicio">Voltar ao Sumário</a>
