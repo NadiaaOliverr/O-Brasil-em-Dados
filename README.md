@@ -9,9 +9,10 @@
 2. [Introdução](#intro)
 3. [Perguntas a serem respondidas: Parte 1](#perguntas)
 4. [Tratamento de Dados: Parte 2](#parte2)
-5. [Referências de Dataset](#refsdata)
-6. [Referências Bibliográficas](#refs)
-7. [Contribuidores](#colaboradores)
+5. [Exploração dos Dados: Parte 3](#parte3)
+6. [Referências de Dataset](#refsdata)
+7. [Referências Bibliográficas](#refs)
+8. [Contribuidores](#colaboradores)
 
 <a name="motivacao"></a>
 ### Motivação
@@ -75,6 +76,13 @@ Embora seu corpo possa abrigar a bactéria que causa a tuberculose, seu sistema 
 - Passar para int a coluna dos anos.
 - Optamos por não juntar os datasets, já que os seus dados estão bem definidos. Quando formos fazer as análises, iremos ler e fazer as comparações necessárias e 
 se preciso, "appendar" um dataframe ao outro. 
+
+
+<a name="parte3"></a>
+# Exploração dos Dados: Parte 3
+
+Nessa etapa buscamos responder as perguntas propostas na parte 1 do projeto, seja via gráfico ou tabela. O notebook desta etapa pode ser acessado [neste link](https://github.com/NadiaaOliverr/O-Brasil-em-Dados-CCF-425/blob/main/Notebooks/Explora%C3%A7%C3%A3o%20dos%20Dados.ipynb).
+
 
 <a name="refdata"></a>
 # Referências de Dataset
