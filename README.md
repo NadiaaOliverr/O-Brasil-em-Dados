@@ -84,6 +84,14 @@ se preciso, "appendar" um dataframe ao outro.
 Nessa etapa buscamos responder as perguntas propostas na parte 1 do projeto, seja via gráfico ou tabela. O notebook desta etapa pode ser acessado [neste link](https://github.com/NadiaaOliverr/O-Brasil-em-Dados-CCF-425/blob/main/Notebooks/Explora%C3%A7%C3%A3o%20dos%20Dados.ipynb).
 
 
+<a name="parte5"></a>
+# Análise preditiva: Parte 4
+
+Nesta etapa, foi aplicado um algoritmo de aprendizagem de máquina, a Regressão Linear Múltipla, para tentar prever dados no futuro
+acontecimento desconhecido. [neste link](https://github.com/NadiaaOliverr/O-Brasil-em-Dados-CCF-425/blob/main/Notebooks/Analise Preditiva Tuberculose.ipynb)
+
+
+
 <a name="refdata"></a>
 # Referências de Dataset
 Os dados utilizados neste projeto foram obtidos do <a href="http://www2.datasus.gov.br/DATASUS/index.php?area=0202">Tabnet - DATASUS</a>, um banco de dados disponibilizado pelo departamento de informática do Sistema Único de Saúde do Brasil. Entre os dados disponibilizados, encontramos informações de saúde (indicadores de saúde, assistência à saúde, informações epidemiológicas e de morbidade, informações sobre a rede de assistência à saúde, estatísticas vitais, informações demográficas e socioeconômicas) e informações financeiras (referentes aos recursos do Fundo Nacional de Saúde transferidos aos municípios, aos créditos aos prestadores de serviços de saúde, aos orçamentos públicos de saúde declarados pelos Estados, pelo Distrito Federal e pelos Municípios).
