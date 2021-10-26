@@ -88,8 +88,12 @@ Nessa etapa buscamos responder as perguntas propostas na parte 1 do projeto, sej
 # Análise preditiva: Parte 4
 
 Nesta etapa, foi aplicado um algoritmo de aprendizagem de máquina, a Regressão Linear Múltipla, para tentar prever dados no futuro
-acontecimento desconhecido [neste link](https://github.com/NadiaaOliverr/O-Brasil-em-Dados-CCF-425/blob/main/Notebooks/Analise_Preditiva_Tuberculose.ipynb)
+acontecimento desconhecido [neste link](https://github.com/NadiaaOliverr/O-Brasil-em-Dados-CCF-425/blob/main/Notebooks/Analise_Preditiva_Tuberculose.ipynb).
 
+<a name="parte5"></a>
+# Relatório
+
+O relatório detalhando cada etapa e conclusão está [neste link](https://github.com/NadiaaOliverr/O-Brasil-em-Dados-CCF-425/blob/main/Relat%C3%B3rioFinal_Tuberculose.pdf).
 
 
 <a name="refdata"></a>
